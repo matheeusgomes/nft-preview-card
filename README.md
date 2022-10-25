@@ -1,5 +1,11 @@
-Desafio do FrontendMentor. Utilizado HTML + CSS.
+# NFT Preview Card
+
+Desafio do Frontend Mentor.
+
+Linguagens utilizadas: 
+<img align="center" alt="HTML" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 Acesso: <a href="https://matheeusgomes.github.io/nft-preview-card/">Link</a>
 
-# nft-preview-card![desktop-preview](https://user-images.githubusercontent.com/10269675/169042168-a5f80367-14f6-41e7-b021-b2ccbbf2b499.jpg)
+<img src="https://user-images.githubusercontent.com/10269675/169042168-a5f80367-14f6-41e7-b021-b2ccbbf2b499.jpg" width=1000px>
